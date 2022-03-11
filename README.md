@@ -1,6 +1,8 @@
+Hey there 👋
+
 [![Telegram profile Badge](https://img.shields.io/badge/profile-%23546DE5.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Prossha/)
 
-## Профессиональные навыки / Professional skills 💼
+## Skills 💼
 
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Nuxt-informational?style=flat&logo=Nuxt.js&logoColor=white&color=4AB197)
@@ -8,7 +10,7 @@
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
 
 <details>
-<summary>Все навыки / All skills</summary>
+<summary>More skills</summary>
 
 <br>
 
